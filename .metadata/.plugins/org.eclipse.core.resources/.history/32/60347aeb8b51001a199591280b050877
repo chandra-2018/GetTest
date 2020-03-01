@@ -1,0 +1,11 @@
+
+public class bike extends Vehicle {
+//	@Override 
+//	public void run() {
+	//	System.out.println("Bike is running");
+//	}
+	public static void main(String[]args) {
+		bike Bike=new bike();
+		Bike.run();
+	}
+}

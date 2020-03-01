@@ -1,0 +1,18 @@
+import java.util.Date;
+
+public class JavaDateClass {
+
+	public static void main(String[] args) {
+		Date dateNow= new Date();
+System.out.println(dateNow);
+	Date DateNow2 =new Date(49999999);
+	System.out.println(DateNow2);
+		
+		
+		
+		
+		
+		
+	}
+
+}

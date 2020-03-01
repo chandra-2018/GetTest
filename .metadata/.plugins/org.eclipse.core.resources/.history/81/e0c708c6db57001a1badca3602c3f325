@@ -1,0 +1,28 @@
+
+public class StringBufferclass {
+
+	public static void main(String[] args) {
+
+	  StringBuffer stbuf= new StringBuffer();
+      StringBuffer stbuf1=new StringBuffer("java is a programming language");
+      StringBuffer stbuf2=new StringBuffer(5);
+	
+    System.out.println(stbuf);
+    System.out.println(stbuf1);
+	System.out.println(stbuf2);
+	stbuf2.append("java is a language");
+	System.out.println(stbuf2);
+
+	stbuf1.append("!");
+	System.out.println(stbuf1);
+	
+	
+	
+	
+	
+	
+	
+	
+	}
+
+}

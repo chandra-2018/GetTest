@@ -1,0 +1,7 @@
+
+public class NumberFormetDemo {
+	public static void main (String[]arg) {
+		double d=123456.789;
+		System.out.println(d);
+	}
+}

@@ -1,0 +1,8 @@
+
+public class Vehicle {
+
+	
+	void getspeedlimit() {
+		System.out.println("speed limit is 50");
+	}
+}

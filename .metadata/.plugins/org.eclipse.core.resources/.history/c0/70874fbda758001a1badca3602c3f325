@@ -1,0 +1,12 @@
+import java.util.Arrays;
+
+public class ArrayClass {
+
+	public static void main(String[] args) {
+		int intArr[]= {10,20,15,22,35};
+		System.out.println(Arrays.asList(intArr));
+		System.out.println(Arrays.binarySearch(intArr, 15));
+		System.out.println(Arrays.binarySearch(intArr,1,4,20));
+	}
+
+}

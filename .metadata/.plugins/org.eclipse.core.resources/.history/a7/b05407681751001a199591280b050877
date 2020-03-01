@@ -1,0 +1,16 @@
+
+public class AdditionOperation {
+
+	int add() {
+		return 0;
+	}
+	int add(int a) {
+		return a;
+		
+	}
+	float add(float a) {
+		return a;
+	
+}
+}
+

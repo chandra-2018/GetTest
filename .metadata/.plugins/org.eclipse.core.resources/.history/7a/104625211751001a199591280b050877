@@ -1,0 +1,9 @@
+
+public class MethodOverloading {
+public static void main(String[]args) {
+	
+	AdditionOperation addition= new AdditionOperation();
+	System.out.println(addition.add());
+	System.out.println(addition.add(5));
+}
+}

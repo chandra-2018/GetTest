@@ -1,0 +1,12 @@
+
+public class Bike extends Vehicle  {
+
+ @Override
+ void getspeedlimit() {
+	System.out.println("speed limit is 50");
+	
+	int speedlimit=80;
+	
+	
+}
+}
